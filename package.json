@@ -1,0 +1,22 @@
+{
+  "name": "swiggy-app",
+  "version": "1.0.0",
+  "description": "npm init\r npm install -D parcel \r npm install\r npx parcel index.html \r npm install react\r npm install react-dom",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayush-agarwal-07/swiggy-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayush-agarwal-07/swiggy-app/issues"
+  },
+  "homepage": "https://github.com/aayush-agarwal-07/swiggy-app#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
